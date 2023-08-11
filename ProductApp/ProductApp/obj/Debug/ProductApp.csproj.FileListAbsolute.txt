@@ -1,0 +1,8 @@
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\bin\Debug\ProductApp.exe.config
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\bin\Debug\ProductApp.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\bin\Debug\ProductApp.pdb
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.AssemblyReference.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\obj\Debug\ProductApp.csproj.CoreCompileInputs.cache
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\obj\Debug\ProductApp.exe
+C:\Users\albin.kurian\Desktop\DotNet\section7\assignment\ProductApp\ProductApp\obj\Debug\ProductApp.pdb
